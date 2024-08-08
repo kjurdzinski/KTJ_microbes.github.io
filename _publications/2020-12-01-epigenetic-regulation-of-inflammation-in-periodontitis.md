@@ -1,12 +1,11 @@
 ---
-title: "Paper Title Number 4"
+title: "Epigenetic regulation of inflammation in periodontitis: cellular mechanisms and therapeutic potential"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2020-12-01-epigenetic-regulation-of-inflammation-in-periodontitis
+abstract: 'Epigenetic mechanisms, namely DNA and histone modifications, are critical regulators of immunity and inflammation which have emerged as potential targets for immunomodulating therapies. The prevalence and significant morbidity of periodontitis, in combination with accumulating evidence that genetic, environmental and lifestyle factors cannot fully explain the susceptibility of individuals to disease development, have driven interest in epigenetic regulation as an important factor in periodontitis pathogenesis. Aberrant promoter methylation profiles of genes involved in inflammatory activation, including TLR2, PTGS2, IFNG, IL6, IL8, and TNF, have been observed in the gingival tissue, peripheral blood or buccal mucosa from patients with periodontitis, correlating with changes in expression and disease severity. The expression of enzymes that regulate histone acetylation, in particular histone deacetylases (HDACs), is also dysregulated in periodontitis-affected gingival tissue. Infection of gingival epithelial cells, gingival fibroblasts and periodontal ligament cells with the oral pathogens Porphyromonas gingivalis or Treponema denticola induces alterations in expression and activity of chromatin-modifying enzymes, as well as site-specific and global changes in DNA methylation profiles and in histone acetylation and methylation marks. These epigenetic changes are associated with excessive production of inflammatory cytokines, chemokines, and matrix-degrading enzymes that can be suppressed by small molecule inhibitors of HDACs (HDACi) or DNA methyltransferases. HDACi and inhibitors of bromodomain-containing BET proteins ameliorate inflammation, osteoclastogenesis, and alveolar bone resorption in animal models of periodontitis, suggesting their clinical potential as host modulation therapeutic agents. However, broader application of epigenomic methods will be required to create a comprehensive map of epigenetic changes in periodontitis. The integration of functional studies with global analyses of the epigenetic landscape will provide critical information on the therapeutic and diagnostic potential of epigenetics in periodontal disease.'
+date: 2020-12-01
+venue: 'Clinical Epigenetics'
+paperurl: 'https://doi.org/10.1186/s13148-020-00982-7'
+citation: 'Jurdziński, K.T., Potempa, J., & Grabiec, A.M. (2020). &quot;Epigenetic regulation of inflammation in periodontitis: cellular mechanisms and therapeutic potential.&quot; <i>Clinical Epigenetics</i>, 12, 186.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
