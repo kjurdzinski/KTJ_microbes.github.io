@@ -27,7 +27,7 @@ author:
   bio              : "Ecology and evolution of aquatic bacteria and protists. Salinity barriers and gradients. Metagenomics, metabarcoding, phylogenomics, bioinformatics."
   location         : "Stockholm, Sweden"
   employer         : "KTH Royal Insitutute of Technology"
-  employer         : "SciLifeLab Stockholm"
+  # employer         : "SciLifeLab Stockholm"
   uri              : # URL
   email            : "krzysztof.jurdzins@scilifelab.se" 
 
