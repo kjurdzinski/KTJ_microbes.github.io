@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "KTJ microbes"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,4 +11,4 @@ I am an aspiring biologist with a special interest in microbes, the smallest org
 
 I love biology, chemistry, math, and physics. I do a lot of data science and bioinformatics; they allow me to research cool stuff. Take me for a walk, a hike, a run, or a swim, somewhere in nature where life flourishes, and I will be happy. Alternatively, give me a good book. And a cup of tea!
 
-I understand my name is very hard to memorize, pronounce, or search for. I hope this website will make it easier to locate me. KTJ microbes, ktjmicrobes.com, is all you have to remember to check me out from now on. 
+I understand my name is very hard to memorize, pronounce, or search for. I hope this website will make it easier to locate me. KTJ Microbes, ktjmicrobes.com, is all you have to remember to check me out from now on. 

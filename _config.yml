@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Krzysztof Tomasz Jurdzinski's academic webpage"
+title                    : "KTJ Microbes"
 title_separator          : "-"
 name                     : &name "Krzysztof T Jurdzinski"
 description              : &description "Ecology and evolution of aquatic bacteria and protists. Salinity barriers and gradients. Metagenomics, metabarcoding, phylogenomics, bioinformatics."
