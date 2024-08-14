@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "boat_image_square.jpg"
   name             : "Krzysztof T Jurdzinski"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/his"  
   bio              : "Ecology and evolution of aquatic bacteria and protists. Salinity barriers and gradients. Metagenomics, metabarcoding, phylogenomics, bioinformatics."
   location         : "Stockholm, Sweden"
   employer         : "KTH Royal Insitutute of Technology"
-  # employer         : "SciLifeLab Stockholm"
+  employer_2       : "SciLifeLab Stockholm"
   uri              : # URL
   email            : "krzysztof.jurdzins@scilifelab.se" 
 
