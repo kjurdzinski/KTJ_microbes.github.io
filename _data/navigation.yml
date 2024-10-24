@@ -3,9 +3,6 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Presentations and posters"
-    url: /presentiations_and_posters/    
-
   # - title: "Teaching"
   #   url: /teaching/    
     
@@ -18,5 +15,8 @@ main:
   - title: "CV"
     url: /files/Moderncv_Casual_EN.pdf
     
+  - title: "Presentations and posters"
+    url: /presentiations_and_posters/    
+
   # - title: "Guide"
   #   url: /markdown/
