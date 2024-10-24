@@ -265,7 +265,7 @@ defaults:
   # _presentiations_and_posters
   - scope:
       path: ""
-      type: talks
+      type: presentiations_and_posters
     values:
       layout: talk
       author_profile: true
