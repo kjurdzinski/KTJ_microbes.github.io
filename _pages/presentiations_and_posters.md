@@ -1,5 +1,5 @@
 ---
-layout: talk
+layout: archive
 title: "Presentations and posters"
 permalink: /presentiations_and_posters/
 author_profile: true
